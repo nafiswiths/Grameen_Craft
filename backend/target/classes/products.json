@@ -1,0 +1,463 @@
+[
+  {
+    "id": "prod-nakshi-classic",
+    "nameEn": "Traditional Jamalpur Nakshi Katha",
+    "nameBn": "ঐতিহ্যবাহী জামালপুরের নকশী কাঁথা",
+    "price": 4500,
+    "rating": 4.9,
+    "reviewsCount": 42,
+    "category": "nakshi-katha",
+    "image": "https://i.pinimg.com/736x/cb/1e/11/cb1e117f76b2d98514bc81a54c9ab60d.jpg",
+    "gallery": [
+      "https://i.pinimg.com/736x/cb/1e/11/cb1e117f76b2d98514bc81a54c9ab60d.jpg",
+      "https://i.pinimg.com/736x/92/36/ee/9236ee55ff99f198f9bbda788ffb9c2a.jpg"
+    ],
+    "artisanId": "artisan-rahima",
+    "materialsEn": [
+      "100% Organic Cotton Thread",
+      "Repurposed Village Handloom Cloth"
+    ],
+    "materialsBn": [
+      "১০০% খাঁটি সুতির সুতা",
+      "গ্রামীণ তাঁতের সুতি নরম কাপড়"
+    ],
+    "deliveryDays": 7,
+    "descEn": "This Nakshi Katha is carefully hand-embroidered over 3 months. It depicts village life with floral motifs and geometric borders.",
+    "descBn": "এই নকশী কাঁথাটি ৩ মাস ধরে যত্ন সহকারে হাতে সেলাই করা হয়েছে। এতে ফুলের মোটিফ এবং জ্যামিতিক বর্ডার সহ গ্রামীণ জীবনের ছবি ফুটিয়ে তোলা হয়েছে।",
+    "inStock": true,
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "prod-nakshi-cushion",
+    "nameEn": "Hand-Embroidered Katha Cushion Cover",
+    "nameBn": "হাতে বোনা কুশন কভার (নকশী কাঁথা)",
+    "price": 650,
+    "rating": 4.75,
+    "reviewsCount": 15,
+    "category": "nakshi-katha",
+    "image": "https://i.pinimg.com/736x/92/36/ee/9236ee55ff99f198f9bbda788ffb9c2a.jpg",
+    "gallery": [
+      "https://i.pinimg.com/736x/92/36/ee/9236ee55ff99f198f9bbda788ffb9c2a.jpg"
+    ],
+    "artisanId": "artisan-rahima",
+    "materialsEn": [
+      "Soft Khadi Cotton",
+      "Multicolor Anchor Cotton Threads"
+    ],
+    "materialsBn": [
+      "নরম খাদি সুতি কাপড়",
+      "বহুরঙা সুতি এংকর সুতা"
+    ],
+    "deliveryDays": 4,
+    "descEn": "Add a splash of rural elegance to your workspace or living room with this colorful hand-embroidered Cushion Cover. Features classic rural bird and leaf motifs.",
+    "descBn": "আপনার বসার ঘর বা কর্মক্ষেত্রে গ্রামীণ সৌন্দর্যের ছোঁয়া আনতে এই চমৎকার নকশী কুশন কভারটি দারুণ। এতে ঐতিহ্যবাহী পাখি ও পাতার নিখুঁত ফোঁড় সেলাই ব্যবহার করা হয়েছে।",
+    "inStock": true,
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "prod-jute-handbag",
+    "nameEn": "Handcrafted Golden Jute Handbag",
+    "nameBn": "হাতে তৈরি সোনালী পাটের হ্যান্ডব্যাগ",
+    "price": 1250,
+    "rating": 4.8,
+    "reviewsCount": 28,
+    "category": "jute-creations",
+    "image": "https://i.pinimg.com/736x/26/a3/0e/26a30e9997f0d56cdc311d8932fdd8dd.jpg",
+    "gallery": [
+      "https://i.pinimg.com/736x/26/a3/0e/26a30e9997f0d56cdc311d8932fdd8dd.jpg"
+    ],
+    "artisanId": "artisan-jahanara",
+    "materialsEn": [
+      "Premium Golden Jute Fiber",
+      "Organic Cotton Lining",
+      "Wooden Handles"
+    ],
+    "materialsBn": [
+      "উন্নত সোনালী পাটের আঁশ",
+      "অর্গানিক সুতি কাপড়ের লাইনিং",
+      "কাঠের হাতল"
+    ],
+    "deliveryDays": 5,
+    "descEn": "An elegant, highly durable everyday handbag made of tightly-woven raw jute with smooth wood handles. Combining Bangladeshi heritage with eco-friendly design.",
+    "descBn": "একটি মার্জিত ও দীর্ঘস্থায়ী নিত্যদিনের হ্যান্ডব্যাগ যা ঘন বুননের কাঁচা পাট এবং মসৃণ কাঠের হাতল দিয়ে তৈরি। এটি বাংলাদেশী ঐতিহ্যের সাথে পরিবেশ-বান্ধব ডিজাইনের সমন্বয় ঘটায়।",
+    "inStock": true,
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "prod-jute-basket",
+    "nameEn": "Braided Jute Nesting Baskets",
+    "nameBn": "পাটের তৈরি চমৎকার ঝুড়ি সেট",
+    "price": 950,
+    "rating": 4.7,
+    "reviewsCount": 19,
+    "category": "jute-creations",
+    "image": "https://i.pinimg.com/1200x/88/73/9d/88739dfcd0e75925433d1089e2512670.jpg",
+    "gallery": [
+      "https://i.pinimg.com/1200x/88/73/9d/88739dfcd0e75925433d1089e2512670.jpg"
+    ],
+    "artisanId": "artisan-jahanara",
+    "materialsEn": [
+      "100% Natural Braided Jute",
+      "Organic Cotton Stitching Thread"
+    ],
+    "materialsBn": [
+      "১০০% প্রাকৃতিক বেণি করা পাট",
+      "জৈব সুতি সেলাই সুতা"
+    ],
+    "deliveryDays": 4,
+    "descEn": "A set of eco-friendly nesting baskets crafted from braided raw jute. Perfect for organizing toys, books, or adding a rustic charm to your shelves.",
+    "descBn": "পাটের তৈরি পরিবেশ-বান্ধব ঝুড়ির একটি সেট। এটি খেলনা ও বই গোছানোর জন্য বা তাকগুলোতে একটি চমৎকার গ্রামীণ সৌন্দর্য যোগ করার জন্য উপযুক্ত।",
+    "inStock": true,
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "prod-jute-mat",
+    "nameEn": "Handwoven Jute Floor Mat",
+    "nameBn": "হাতে বোনা পাটের ফ্লোর ম্যাট",
+    "price": 1550,
+    "rating": 4.85,
+    "reviewsCount": 22,
+    "category": "jute-creations",
+    "image": "https://i.pinimg.com/736x/85/b2/31/85b23164c7017a892c483cb0fa0f69e3.jpg",
+    "gallery": [
+      "https://i.pinimg.com/736x/85/b2/31/85b23164c7017a892c483cb0fa0f69e3.jpg"
+    ],
+    "artisanId": "artisan-jahanara",
+    "materialsEn": [
+      "Sturdy Natural Jute Yarn",
+      "Traditional Handloom Weave"
+    ],
+    "materialsBn": [
+      "মজবুত প্রাকৃতিক পাটের সুতা",
+      "ঐতিহ্যবাহী তাঁতের বুনন"
+    ],
+    "deliveryDays": 6,
+    "descEn": "This thick, beautifully woven jute floor mat is ideal for high-traffic areas, bringing an organic texture and natural warmth to any room.",
+    "descBn": "এই ঘন ও সুন্দরভাবে বোনা পাটের ম্যাটটি যেকোনো ঘরে একটি জৈব টেক্সচার এবং প্রাকৃতিক উষ্ণতা নিয়ে আসে।",
+    "inStock": true,
+    "featured": true,
+    "trending": false
+  },
+  {
+    "id": "prod-clay-pottery",
+    "nameEn": "Sonargaon Terracotta Earthen Vase",
+    "nameBn": "সোনারগাঁও মাটির টেরাকোটা ফুলদানি",
+    "price": 850,
+    "rating": 4.9,
+    "reviewsCount": 19,
+    "category": "clay-crafts",
+    "image": "https://i.pinimg.com/736x/40/0f/37/400f37d2a80e7821e8f7edd4bfff6227.jpg",
+    "gallery": [
+      "https://i.pinimg.com/736x/40/0f/37/400f37d2a80e7821e8f7edd4bfff6227.jpg",
+      "https://i.pinimg.com/1200x/54/81/45/5481459180e88f7a8e58366f8aa7f518.jpg",
+      "https://i.pinimg.com/736x/55/f6/2f/55f62fb40d189c752525382825050009.jpg"
+    ],
+    "artisanId": "artisan-subal",
+    "materialsEn": [
+      "Natural Silt Clay",
+      "River Silt Wash",
+      "Traditional Wood Fire kiln"
+    ],
+    "materialsBn": [
+      "প্রাকৃতিক পলি মাটি",
+      "নদীর কাদার প্রলেপ",
+      "ঐতিহ্যবাহী কাঠের চুলা"
+    ],
+    "deliveryDays": 5,
+    "descEn": "Molded by hand on a wooden potter's wheel, this terracotta vase showcases traditional folk relief carvings. The reddish-clay glow provides a rustic warmth to any contemporary living room.",
+    "descBn": "ঐতিহ্যবাহী কাঠের চাকায় নিজ হাতে তৈরি এই মৃৎ ফুলদানিটিতে চমৎকার লোকজ নকশা খোদাই করা হয়েছে। এর লালচে মাটির প্রাকৃতিক উজ্জ্বলতা ঘরের কোণে এক গ্রামীণ আভিজাত্য এনে দেবে।",
+    "inStock": true,
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "prod-clay-tea-set",
+    "nameEn": "Handcrafted Earthen Clay Tea Set",
+    "nameBn": "কারুকার্যখচিত মাটির চা সেট",
+    "price": 1500,
+    "rating": 4.95,
+    "reviewsCount": 22,
+    "category": "clay-crafts",
+    "image": "https://i.pinimg.com/1200x/54/81/45/5481459180e88f7a8e58366f8aa7f518.jpg",
+    "gallery": [
+      "https://i.pinimg.com/1200x/54/81/45/5481459180e88f7a8e58366f8aa7f518.jpg"
+    ],
+    "artisanId": "artisan-subal",
+    "materialsEn": [
+      "Finest River Clay",
+      "Natural Glaze Finish"
+    ],
+    "materialsBn": [
+      "উন্নত নদীর লাল মাটি",
+      "প্রাকৃতিক উজ্জ্বল পলিশ"
+    ],
+    "deliveryDays": 6,
+    "descEn": "Hand-painted traditional clay teacups with a rustic teapot molded from rich river silt clay. Keeps your local tea piping hot with a subtle, earthy aroma.",
+    "descBn": "নদীর উর্বর মাটি দিয়ে পরম যত্নে তৈরি চমৎকার মাটির কেতলি এবং চা পানের কাপের সেট। এটি চা-কে দীর্ঘক্ষণ গরম রাখে এবং পরিবেশনে ঐতিহ্যবাহী মাটির ছোঁয়া যোগ করে।",
+    "inStock": true,
+    "featured": true,
+    "trending": false
+  },
+  {
+    "id": "prod-clay-plate",
+    "nameEn": "Decorative Clay Alpana Wall Plate",
+    "nameBn": "মাটির আলপনা আঁকা দেয়াল সজ্জা",
+    "price": 650,
+    "rating": 4.8,
+    "reviewsCount": 8,
+    "category": "clay-crafts",
+    "image": "https://i.pinimg.com/736x/55/f6/2f/55f62fb40d189c752525382825050009.jpg",
+    "gallery": [
+      "https://i.pinimg.com/736x/55/f6/2f/55f62fb40d189c752525382825050009.jpg"
+    ],
+    "artisanId": "artisan-subal",
+    "materialsEn": [
+      "Terracotta Clay",
+      "Folk Alpana Acrylic Dyes"
+    ],
+    "materialsBn": [
+      "পোড়ামাটি",
+      "লোকজ আলপনা অ্যাক্রিলিক কালার"
+    ],
+    "deliveryDays": 4,
+    "descEn": "Intricately hand-etched clay wall plate painted with traditional white and red alpana folk motifs. High-contrast colors represent cultural festivals of rural Bengal.",
+    "descBn": "লাল এবং সাদা রঙে ঐতিহ্যবাহী গ্রামীণ আলপনা আঁকা চমৎকার মৃৎ দেয়াল প্লেট। লোকজ উৎসব ও সংস্কৃতির বহিঃপ্রকাশ হিসেবে এটি আপনার ঘরের সৌন্দর্য বহুগুণ বাড়িয়ে দেবে।",
+    "inStock": true,
+    "featured": false,
+    "trending": false
+  },
+  {
+    "id": "prod-bamboo-basket",
+    "nameEn": "Woven Sylhet Bamboo Utility Basket",
+    "nameBn": "সিলেটের নিখুঁত বাঁশের ঝুড়ি",
+    "price": 950,
+    "rating": 4.8,
+    "reviewsCount": 33,
+    "category": "bamboo-crafts",
+    "image": "https://i.pinimg.com/1200x/f9/7f/b8/f97fb84232eb42f58bfeff332eef560f.jpg",
+    "gallery": [
+      "https://i.pinimg.com/1200x/f9/7f/b8/f97fb84232eb42f58bfeff332eef560f.jpg"
+    ],
+    "artisanId": "artisan-majid",
+    "materialsEn": [
+      "Seasoned Hill Bamboo",
+      "Natural Cane binding"
+    ],
+    "materialsBn": [
+      "পরিপক্ক পাহাড়ী বাঁশ",
+      "প্রাকৃতিক বেতের বাঁধন"
+    ],
+    "deliveryDays": 3,
+    "descEn": "Hand-plaited using strong bamboo slivers, this multi-purpose basket combines incredible lightness with exceptional strength. Ideal for storing fruits, towels, or rustic home organization.",
+    "descBn": "মজবুত বাঁশের ফালি দিয়ে নিখুঁত বুননে তৈরি এই বহুমুখী ঝুড়িটি যেমন হালকা তেমন মজবুত। ফলমূল রাখা, তোয়ালে রাখা কিংবা ঘর সুন্দরভাবে গুছিয়ে রাখতে এটি অত্যন্ত কার্যকর।",
+    "inStock": true,
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "prod-handloom-saree",
+    "nameEn": "Tangail Jamdani Cotton Saree",
+    "nameBn": "টাঙ্গাইল সুতি জামদানি শাড়ি",
+    "price": 6800,
+    "rating": 4.95,
+    "reviewsCount": 56,
+    "category": "handloom-clothing",
+    "image": "https://i.pinimg.com/736x/05/7a/83/057a83b5ba8582e004ee6983e21ec241.jpg",
+    "gallery": [
+      "https://i.pinimg.com/736x/05/7a/83/057a83b5ba8582e004ee6983e21ec241.jpg"
+    ],
+    "artisanId": "artisan-kusum",
+    "materialsEn": [
+      "Fine Organic Tangail Cotton",
+      "Silver-Wrapped Silk Thread"
+    ],
+    "materialsBn": [
+      "টাঙ্গাইলের মিহি সুতি সুতা",
+      "রূপালী কাজ করা রেশমি সুতা"
+    ],
+    "deliveryDays": 8,
+    "descEn": "Woven thread by thread on handlooms, this cotton Jamdani saree features gorgeous geometrical and floral weaves ('Panna Hajar' motif). Very light, breathable and representing Bangladesh's legendary textile heritage.",
+    "descBn": "তাঁতে সুতা কেটে বোনা এই চমৎকার সুতি জামদানি শাড়িটিতে 'পান্না হাজার' জ্যামিতিক নকশা ফুটিয়ে তোলা হয়েছে। এটি অত্যন্ত হালকা, আরামদায়ক এবং বাংলাদেশের বিশ্ববিখ্যাত তাঁত শিল্পের গৌরব বহন করে।",
+    "inStock": true,
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "prod-sundarban-honey",
+    "nameEn": "Wild Sundarbans Khulisha Honey",
+    "nameBn": "সুন্দরবনের খাঁটি খলিশা ফুল মধু",
+    "price": 750,
+    "rating": 4.8,
+    "reviewsCount": 61,
+    "category": "homemade-food",
+    "image": "https://i.pinimg.com/736x/09/72/db/0972db0425551345014aca8b3caa74ca.jpg",
+    "gallery": [
+      "https://i.pinimg.com/736x/09/72/db/0972db0425551345014aca8b3caa74ca.jpg"
+    ],
+    "artisanId": "artisan-fatema",
+    "materialsEn": [
+      "100% Wild Raw Honey",
+      "Sundarbans Khulisha Nectar"
+    ],
+    "materialsBn": [
+      "১০০% প্রাকৃতিক খাঁটি মধু",
+      "সুন্দরবনের খলিশা ফুলের মধু"
+    ],
+    "deliveryDays": 3,
+    "descEn": "Harvested ethically from the deep mangrove forests of the Sundarbans. This raw, unfiltered Khulisha flower honey is rich in antioxidants, light-golden in color, with a sweet floral note.",
+    "descBn": "সুন্দরবনের গহীন ম্যানগ্রোভ বন থেকে সংগৃহীত। রাসায়নিকমুক্ত, অপরিশোধিত এবং শতভাগ খাঁটি খলিশা ফুলের মধু যা অ্যান্টি-অক্সিডেন্ট সমৃদ্ধ, সোনালী রঙের এবং মনমাতানো সুবাসযুক্ত।",
+    "inStock": true,
+    "featured": false,
+    "trending": false
+  },
+  {
+    "id": "prod-organic-spices",
+    "nameEn": "Organic Stone-Ground Spice Set",
+    "nameBn": "গ্রামীণ শিল-পাটায় বাটা মশলা সেট",
+    "price": 550,
+    "rating": 4.9,
+    "reviewsCount": 30,
+    "category": "homemade-food",
+    "image": "https://i.pinimg.com/1200x/a2/72/c1/a272c14d3d594bc995d21c8612e9889a.jpg",
+    "gallery": [
+      "https://i.pinimg.com/1200x/a2/72/c1/a272c14d3d594bc995d21c8612e9889a.jpg"
+    ],
+    "artisanId": "artisan-fatema",
+    "materialsEn": [
+      "Sun-Dried Red Chili",
+      "Premium Organic Turmeric"
+    ],
+    "materialsBn": [
+      "রোদে শুকানো লাল মরিচ",
+      "উন্নত জাতের খাঁটি হলুদ"
+    ],
+    "deliveryDays": 3,
+    "descEn": "Authentically hand-ground pure turmeric and red chili powder prepared by village mothers using traditional stone-grinders. Chemical-free, preserving native flavor.",
+    "descBn": "গ্রামীণ মায়েদের দ্বারা শিল-পাটায় বেটে প্রস্তুতকৃত শতভাগ খাঁটি হলুদ ও মরিচ গুড়ো। কোনো প্রকার কৃত্রিম রঙ বা প্রিজারভেটিভ ছাড়াই তৈরি এই মশলা রান্নায় অনন্য স্বাদ ও সুবাস আনে।",
+    "inStock": true,
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "prod-homemade-pickles",
+    "nameEn": "Traditional Rooftop-Cured Mango Pickle",
+    "nameBn": "ঘরে তৈরি রোদে শুকানো আমের আচার",
+    "price": 420,
+    "rating": 4.85,
+    "reviewsCount": 25,
+    "category": "homemade-food",
+    "image": "https://i.pinimg.com/1200x/b3/03/27/b30327a4914a52663346b005dc7ec128.jpg",
+    "gallery": [
+      "https://i.pinimg.com/1200x/b3/03/27/b30327a4914a52663346b005dc7ec128.jpg"
+    ],
+    "artisanId": "artisan-fatema",
+    "materialsEn": [
+      "Green Mangoes",
+      "Cold-Pressed Mustard Oil",
+      "Secret Family Spices"
+    ],
+    "materialsBn": [
+      "কাঁচা আম",
+      "খাঁটি ঘানির সরিষার তেল",
+      "ঘরোয়া স্পেশাল মশলা"
+    ],
+    "deliveryDays": 3,
+    "descEn": "Tangy, solar-cured raw mango pieces steeped in premium cold-pressed mustard oil and village spices. Made following timeless maternal grandmother recipes.",
+    "descBn": "দিদিমা ও ঠাকুমাদের ঐতিহ্যবাহী রেসিপিতে তৈরি টক-ঝাল-মিষ্টি আমের আচার। খাঁটি সরিষার তেল ও বাছাইকৃত মশলায় তৈরি এই আচার রোদে শুকিয়ে বোতলজাত করা হয়।",
+    "inStock": true,
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": "prod-nakshi-pitha",
+    "nameEn": "Artisanal Handmade Nakshi Pitha Set",
+    "nameBn": "গ্রামীণ কারুকার্যখচিত নকশী পিঠা",
+    "price": 480,
+    "rating": 4.9,
+    "reviewsCount": 18,
+    "category": "homemade-food",
+    "image": "https://i.pinimg.com/736x/f5/c8/d1/f5c8d101c3d07dd98b3e9b6614834158.jpg",
+    "gallery": [
+      "https://i.pinimg.com/736x/f5/c8/d1/f5c8d101c3d07dd98b3e9b6614834158.jpg"
+    ],
+    "artisanId": "artisan-fatema",
+    "materialsEn": [
+      "Premium Atap Rice Flour",
+      "Sundarban Honey/Date Jaggery Syrup"
+    ],
+    "materialsBn": [
+      "দেশী আতপ চালের গুঁড়ো",
+      "সুন্দরবনের মধু/খেজুরের গুড়ের রস"
+    ],
+    "deliveryDays": 4,
+    "descEn": "Crispy and sweet traditional rice-flour deep-fried pastries designed with intricate hand-carved floral patterns. A legendary winter snack representing Bangladeshi hospitality.",
+    "descBn": "চালের গুঁড়ো ও খেজুরের রস দিয়ে অত্যন্ত নিখুঁত কারুকাজে তৈরি কুড়কুড়ে সুস্বাদু নকশী পিঠা। গ্রামীণ অতিথি আপ্যায়নের এক অবিচ্ছেদ্য লোকজ মিষ্টি খাবার ঐতিহ্য।",
+    "inStock": true,
+    "featured": false,
+    "trending": false
+  },
+  {
+    "id": "prod-terracotta-necklace",
+    "nameEn": "Terracotta Hand-Painted Choker Necklace",
+    "nameBn": "হাতে আঁকা পোড়ামাটির চোকার হার",
+    "price": 950,
+    "rating": 4.9,
+    "reviewsCount": 16,
+    "category": "jewellery",
+    "image": "https://i.pinimg.com/1200x/7b/a2/09/7ba209976751bbc79169ae8f8b29675f.jpg",
+    "gallery": [
+      "https://i.pinimg.com/1200x/7b/a2/09/7ba209976751bbc79169ae8f8b29675f.jpg"
+    ],
+    "artisanId": "artisan-shila",
+    "materialsEn": [
+      "Fired Terracotta Clay Beads",
+      "Folk Acrylic Paint",
+      "Adjustable Jute Cord"
+    ],
+    "materialsBn": [
+      "পোড়ামাটির তৈরি পুঁতি",
+      "লোকজ অ্যাক্রিলিক রঙ",
+      "অ্যাডজাস্টেবল পাটের সুতো"
+    ],
+    "deliveryDays": 4,
+    "descEn": "Hand-sculpted river clay beads, kiln-fired and intricately hand-painted with vibrant folk motifs. Light and comfortable, making a bold ethnic fashion statement.",
+    "descBn": "উন্নত মাটির ছাঁচে তৈরি পোড়ামাটির চমৎকার মালা ও গহনা সেট। এতে ঐতিহ্যবাহী বৈশাখী ও লোকজ মোটিফের রঙের আলপনা নিখুঁতভাবে হাতে আঁকা হয়েছে।",
+    "inStock": true,
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": "prod-brass-necklace",
+    "nameEn": "Artisanal Brass Filigree Pendant Necklace",
+    "nameBn": "ব্রাস ফিলিগ্রি পেণ্ডেন্ট নেকলেস",
+    "price": 1350,
+    "rating": 4.85,
+    "reviewsCount": 11,
+    "category": "jewellery",
+    "image": "https://i.pinimg.com/1200x/84/43/12/844312e4568e9c28c1af28397b505894.jpg",
+    "gallery": [
+      "https://i.pinimg.com/1200x/84/43/12/844312e4568e9c28c1af28397b505894.jpg"
+    ],
+    "artisanId": "artisan-shila",
+    "materialsEn": [
+      "Pure Brass Filigree Plate",
+      "Handcrafted Glass Beads",
+      "Waxed Cotton Cord"
+    ],
+    "materialsBn": [
+      "খাঁটি ব্রাস/তামার মেটাল পাত",
+      "হাতে তৈরি কাঁচের পুঁতি",
+      "মোম করা সুতির সুতো"
+    ],
+    "deliveryDays": 5,
+    "descEn": "Exquisite brass metal plate with classical hand-hammered filigree designs suspended on handcrafted organic strings with native colorful beads.",
+    "descBn": "অসাধারণ ব্রাস (পিতল ও তামা) কুঁদে তৈরি কারুকার্যময় পেণ্ডেন্ট সেট। আভিজাত্য এবং সংস্কৃতির এক অপূর্ব মেলবন্ধন যা যেকোনো আধুনিক পোশাকের সাথে দারুণ মানিয়ে যায়।",
+    "inStock": true,
+    "featured": false,
+    "trending": true
+  }
+]
