@@ -65,14 +65,7 @@ export default function App() {
 
   const [currentUser, setCurrentUser] = useState(() => {
     const saved = localStorage.getItem("grameen_user");
-    return saved ? JSON.parse(saved) : {
-      name: "Sajid Ahmed",
-      email: "sajid@dhaka.com",
-      phone: "+8801712345678",
-      address: "House 45, Road 12, Dhanmondi",
-      district: "Dhaka",
-      role: "buyer"
-    };
+    return saved ? JSON.parse(saved) : null;
   });
 
   const [orders, setOrders] = useState(() => {
@@ -380,7 +373,7 @@ export default function App() {
     // Save order to PostgreSQL database
     orderApi.create({
       ...newOrder,
-      userEmail: currentUser?.email || "sajid@dhaka.com"
+      userEmail: currentUser?.email || "guest@grameencraft.org"
     }).catch(err => console.error("Error saving order to Postgres:", err));
 
     setCart([]); // Clear Cart
@@ -444,7 +437,7 @@ export default function App() {
       // Save bKash order to PostgreSQL database
       orderApi.create({
         ...finalOrder,
-        userEmail: currentUser?.email || "sajid@dhaka.com"
+        userEmail: currentUser?.email || "guest@grameencraft.org"
       }).catch(err => console.error("Error saving bKash order to Postgres:", err));
 
       setCart([]); // Clear Cart
