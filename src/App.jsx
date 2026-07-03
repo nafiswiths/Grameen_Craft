@@ -2317,46 +2317,35 @@ export default function App() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
-              className="max-w-4xl mx-auto bg-white border border-border-brand rounded-3xl overflow-hidden shadow-xl"
+              className="max-w-5xl mx-auto bg-white border border-border-brand rounded-3xl overflow-hidden shadow-xl"
             >
               <div className="grid grid-cols-1 md:grid-cols-12">
                 {/* Left product wallpaper */}
-                <div className="hidden md:block md:col-span-6 relative bg-bg-brand">
+                <div className="md:col-span-7 relative bg-bg-brand min-h-[320px] h-72 md:h-auto">
                   <img
                     src="https://i.pinimg.com/1200x/f9/97/34/f9973451d1256a7449fcb00fc850737e.jpg"
                     alt="Login Banner Craft"
                     referrerPolicy="no-referrer"
-                    className="w-full h-full object-cover aspect-square"
+                    className="w-full h-full object-cover"
                   />
-                  <div className="absolute inset-0 bg-text-primary/20 backdrop-blur-xs flex flex-col justify-end p-8 text-white">
-                    <h3 className="font-serif text-2xl font-bold">GrameenCraft Heritage</h3>
-                    <p className="text-xs font-mono tracking-widest uppercase text-white/85 mt-1">{t.tagline}</p>
+                  <div className="absolute inset-0 bg-text-primary/20 backdrop-blur-xs flex flex-col justify-end p-10 text-white">
+                    <h3 className="font-serif text-3xl font-bold">GrameenCraft Heritage</h3>
+                    <p className="text-sm font-mono tracking-widest uppercase text-white/85 mt-2">{t.tagline}</p>
                   </div>
                 </div>
 
                 {/* Right Form column */}
-                <div className="md:col-span-6 p-8 md:p-12 space-y-6">
-                  <div className="space-y-1.5 text-center md:text-left">
-                    <h2 className="font-serif text-2xl font-black text-[#2D2A26]">
+                <div className="md:col-span-5 p-10 md:p-14 space-y-8">
+                  <div className="space-y-2 text-center md:text-left">
+                    <h2 className="font-serif text-3xl font-black text-[#2D2A26]">
                       {t.loginTitle}
                     </h2>
-                    <p className="text-xs text-[#6B635B]">
+                    <p className="text-sm text-[#6B635B] leading-relaxed">
                       {t.loginSub}
                     </p>
-
-                    {/* Admin Access Info Tip */}
-                    <div className="bg-[#FFF0E0] border border-[#FFE0C0] p-3 rounded-xl text-[11px] text-[#B06000] font-mono space-y-1 mt-2 shadow-2xs">
-                      <div className="flex items-center gap-1.5 font-bold">
-                        <Shield size={13} className="text-amber-600" />
-                        <span>ADMIN ACCESS DEMO TIP:</span>
-                      </div>
-                      <p className="leading-relaxed">
-                        Select <strong className="font-sans font-bold">Admin</strong> role and sign in using <strong className="bg-[#FFF8F0] px-1 py-0.5 rounded border border-[#FFE0C0]/60">admin@grameencraft.org</strong> / <strong className="bg-[#FFF8F0] px-1 py-0.5 rounded border border-[#FFE0C0]/60">adminpassword</strong> to view database schemas, promote roles, toggle stock and ship orders!
-                      </p>
-                    </div>
                   </div>
 
-                  <form onSubmit={handleLogin} className="space-y-4">
+                  <form onSubmit={handleLogin} className="space-y-5">
                     {/* Role Selector */}
                     <div>
                       <label className="block text-[10px] font-mono font-bold text-[#2D2A26] uppercase tracking-wider mb-2">
