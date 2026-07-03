@@ -1,0 +1,15 @@
+services:
+  - type: web_service
+    name: grameencraft-backend
+    env: docker
+    branch: main
+    plan: starter
+    dockerfilePath: backend/Dockerfile
+    buildCommand: mvn -q package -DskipTests -B
+    envVars:
+      - key: DATABASE_URL
+        fromSecret: DATABASE_URL
+      - key: GEMINI_API_KEY
+        fromSecret: GEMINI_API_KEY
+    healthCheckPath: "/api/db-status"
+    autoDeploy: true

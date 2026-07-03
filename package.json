@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "node server.js",
-    "build": "vite build && esbuild server.js --bundle --platform=node --format=cjs --packages=external --sourcemap --outfile=dist/server.cjs",
-    "start": "node dist/server.cjs",
-    "clean": "rm -rf dist server.js",
+    "build": "vite build",
+    "preview": "vite preview",
+    "clean": "rm -rf dist",
     "lint": "echo 'JS only'"
   },
   "dependencies": {
