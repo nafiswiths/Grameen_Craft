@@ -2316,7 +2316,7 @@ export default function App() {
                 {/* Left product wallpaper */}
                 <div className="md:col-span-7 relative bg-bg-brand min-h-[320px] h-72 md:h-auto">
                   <img
-                    src="https://i.pinimg.com/1200x/f9/97/34/f9973451d1256a7449fcb00fc850737e.jpg"
+                    src="https://i.pinimg.com/1200x/57/2b/2f/572b2f39aa8c9c7db3127647dcfd89fc.jpg"
                     alt="Login Banner Craft"
                     referrerPolicy="no-referrer"
                     className="w-full h-full object-cover"

@@ -3,10 +3,10 @@ FROM maven:3.9-eclipse-temurin-17 AS builder
 WORKDIR /build
 
 # Copy only the files needed for building to leverage Docker cache
-COPY backend/pom.xml ./backend/pom.xml
-COPY backend/src ./backend/src
+COPY pom.xml ./pom.xml
+COPY src ./src
 
-WORKDIR /build/backend
+WORKDIR /build
 
 # Package the Spring Boot app (skip tests to speed up CI builds)
 RUN mvn -q package -DskipTests -B
